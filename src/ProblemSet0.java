@@ -87,27 +87,27 @@ public class ProblemSet0 {
          * Print a countdown to the console.
          */
 
-        // System.out.println("Three.\tTwo.\tOne.\tGo!\n");
-        //
-        // /*
-        //  * Exercise 8.
-        //  *
-        //  * Print three diamonds to the console.
-        //  */
-        //
-        // System.out.println("  /\     /\     /\");
-        // System.out.println(" /  \   /  \   /  \");
-        // System.out.println("/    \ /    \ /    \");
-        // System.out.println("\    / \    / \    /");
-        // System.out.println(" \  /   \  /   \  /");
-        // System.out.println("  \/     \/     \/");
-        //
-        // /*
-        //  * Exercise 9.
-        //  *
-        //  * Print an encouraging message to the console.
-        //  */
-        //
+        System.out.println("\nThree.\tTwo.\tOne.\tGo!\n");
+
+        /*
+         * Exercise 8.
+         *
+         * Print three diamonds to the console.
+         */
+
+        // System.out.println("\n  /\\     /\\     /\\");
+        // System.out.println(" /  \\   /  \\   /  \\");
+        // System.out.println("/    \\ /    \\ /    \\");
+        // System.out.println("\\    / \\    / \\    /");
+        // System.out.println(" \\  /   \\  /   \\  /");
+        // System.out.println("  \\/     \\/     \\/\n");
+
+        /*
+         * Exercise 9.
+         *
+         * Print an encouraging message to the console.
+         */
+
         // System.out.println(You're almost done with your first problem set...);
         //
         // /*
