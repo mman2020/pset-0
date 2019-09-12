@@ -38,8 +38,8 @@ public class ProblemSet0 {
         System.out.println("  #  #    #     # #        #");
         System.out.println(" #    #   #     # #        #");
         System.out.println("########  ######  #        ########");
-        System.out.println("#      #  #       #                #");
-        System.out.println("#      #  #       #                #");
+        System.out.println("#      #  #       #               #");
+        System.out.println("#      #  #       #               #");
         System.out.println("#      #  #       ######## ########\n");
 
 
@@ -79,7 +79,7 @@ public class ProblemSet0 {
          * Print a square of text to the console.
          */
 
-        System.out.println("H E L L O\nE\tA\nL\tP\nL\tC\nO A P C S");
+        System.out.println("H E L L O\nE\t\tA\nL\t\tP\nL\t\tC\nO A P C S");
 
         /*
          * Exercise 7.
@@ -108,17 +108,17 @@ public class ProblemSet0 {
          * Print an encouraging message to the console.
          */
 
-        // System.out.println(You're almost done with your first problem set...);
-        //
-        // /*
-        //  * Exercise 10.
-        //  *
-        //  * Print a plus sign to the console.
-        //  */
-        //
-        // System.out.println("+---+||");
-        // System.out.println("+---++---+||+---++---+");
-        // System.out.println("||+---+");
-        //
+        System.out.println("You're almost done with your first problem set...\n");
+
+        /*
+         * Exercise 10.
+         *
+         * Print a plus sign to the console.
+         */
+
+        System.out.println("\t+---+\n\t|\t|");
+        System.out.println("+---+\t+---+\n|\t\t\t|\n+---+\t+---+");
+        System.out.println("\t|\t|\n\t+---+");
+
       }
 }
